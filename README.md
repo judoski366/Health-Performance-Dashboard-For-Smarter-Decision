@@ -344,6 +344,8 @@ If intentional (e.g., weight loss goal), this is positive, but prolonged deficit
 
 ![](https://github.com/judoski366/Health-Performance-Dashboard-For-Smarter-Decision/blob/main/Mood%20Score.PNG)
 
+---
+
 # 5. Share
 #### Communicating Insights from the Dashboard Development
 
@@ -425,6 +427,13 @@ Practice gratitude and mindfulness techniques for mental resilience. Ensure work
 The Health Tracker Performance Dashboard highlights areas of strength (step count, mood score, BMI) and areas needing improvement (sleep, calorie balance, blood pressure). By following these recommendations, users can enhance their physical health, emotional well-being, and long-term fitness goals.
 
 Thank you for taking the time to read my analysis! I truly appreciate your interest and support. If you’d like to stay connected and explore more insights or collaborate, feel free to connect with me on my Profile.
+
+
+ ---
+## Additional Resources
+**_To interact with the report, click[here](https://public.tableau.com/views/HealthProject_17409261794760/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)_**
+
+
 
 
 
