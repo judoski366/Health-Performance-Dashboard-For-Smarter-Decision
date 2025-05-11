@@ -5,7 +5,7 @@
  - [INTRODUCTION](#INTRODUCTION)
  - [ASK](#ASK)
  - [PREPARE](#PREPARE)
- - [PROCESS](#3.-PROCESS)
+ - [PROCESS](#PROCESS)
  - [ANALYZE](#ANALYZE)
  - [SHARE](#SHARE)
  - [ACT](#ACT)
@@ -22,7 +22,7 @@ Ready to take control of your health like a pro? Let’s dive in!
 
 ---
 
-# 1. ASK
+# ASK
 
 The Health Tracker Performance Dashboard is designed to provide valuable insights into key health metrics, enabling data-driven decisions for better health monitoring and management. Using the six phases of data analysis, this project begins with the Ask (Reason), where we define clear objectives.
 
@@ -67,7 +67,7 @@ These columns collectively provide a comprehensive overview of an individual’s
 
 ---
 
-# 3. PROCESS
+# PROCESS
 
 ### Data Transformation
 To prepare the dataset for analysis, I utilized Microsoft Excel for an initial data review and cleaning, ensuring accuracy and consistency. Afterward, I imported the dataset into Tableau for visualization and further transformation.
@@ -241,7 +241,7 @@ These transformations allowed for better structuring and analysis of key perform
 
 ---
 
-# 4. Analyze
+# ANALYZE
 
 ### Key Insights & Analysis
 The Health Tracker Performance Dashboard provides a clear and insightful summary of key health metrics, enabling users to monitor their well-being effectively. Here are some key insights based on the dashboard visualization:
@@ -355,7 +355,7 @@ If intentional (e.g., weight loss goal), this is positive, but prolonged deficit
 
 ---
 
-# 5. Share
+# SHARE
 #### Communicating Insights from the Dashboard Development
 
 I designed a Tableau Health Tracker Performance Dashboard to provide a comprehensive overview of key health metrics. This dashboard integrates:
@@ -380,7 +380,7 @@ The Health Tracker Performance Dashboard provides an intuitive way to monitor da
 
 ---
 
-# 6. Act
+# ACT
 
 #### Key Recommendations
 
