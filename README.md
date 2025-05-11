@@ -1,7 +1,16 @@
 # Health-Performance-Dashboard-For-Smarter-Decision
 ![](https://github.com/judoski366/Health-Performance-Dashboard-For-Smarter-Decision/blob/main/Health%20dashboard.PNG)
 
-# _Introduction_
+## Table Of Content
+ - [INTRODUCTION](#INTRODUCTION)
+ - [ASK](#ASK)
+ - [PREPARE](#PREPARE)
+ - [PROCESS](#3.-PROCESS)
+ - [ANALYZE](#ANALYZE)
+ - [SHARE](#SHARE)
+ - [ACT](#ACT)
+
+### INTRODUCTION
 
 Imagine having a personal health assistant that never sleeps — one that tracks your fitness progress, monitors vital signs, and helps you make smarter health decisions, all in real-time. What if you could visualize your wellness journey with just a glance at a dashboard, spotting trends, identifying risks, and optimizing your routine effortlessly?
 
@@ -31,7 +40,7 @@ These objectives serve as the foundation for building a comprehensive, data-driv
 
 ---
 
-# 2. Prepare
+# PREPARE
 
 ### Data Collection & Methodology
 This dataset was specifically created for the Lagos Tableau User Group, aiming to provide a structured and insightful representation of health performance metrics. The dataset includes key indicators necessary for tracking and analyzing health trends effectively.
@@ -58,7 +67,7 @@ These columns collectively provide a comprehensive overview of an individual’s
 
 ---
 
-# 3. Process
+# 3. PROCESS
 
 ### Data Transformation
 To prepare the dataset for analysis, I utilized Microsoft Excel for an initial data review and cleaning, ensuring accuracy and consistency. Afterward, I imported the dataset into Tableau for visualization and further transformation.
