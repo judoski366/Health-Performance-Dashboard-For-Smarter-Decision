@@ -22,7 +22,7 @@ Ready to take control of your health like a pro? Let’s dive in!
 
 ---
 
-# ASK
+## ASK
 
 The Health Tracker Performance Dashboard is designed to provide valuable insights into key health metrics, enabling data-driven decisions for better health monitoring and management. Using the six phases of data analysis, this project begins with the Ask (Reason), where we define clear objectives.
 
@@ -40,7 +40,7 @@ These objectives serve as the foundation for building a comprehensive, data-driv
 
 ---
 
-# PREPARE
+## PREPARE
 
 ### Data Collection & Methodology
 This dataset was specifically created for the Lagos Tableau User Group, aiming to provide a structured and insightful representation of health performance metrics. The dataset includes key indicators necessary for tracking and analyzing health trends effectively.
@@ -67,7 +67,7 @@ These columns collectively provide a comprehensive overview of an individual’s
 
 ---
 
-# PROCESS
+## PROCESS
 
 ### Data Transformation
 To prepare the dataset for analysis, I utilized Microsoft Excel for an initial data review and cleaning, ensuring accuracy and consistency. Afterward, I imported the dataset into Tableau for visualization and further transformation.
@@ -241,7 +241,7 @@ These transformations allowed for better structuring and analysis of key perform
 
 ---
 
-# ANALYZE
+## ANALYZE
 
 ### Key Insights & Analysis
 The Health Tracker Performance Dashboard provides a clear and insightful summary of key health metrics, enabling users to monitor their well-being effectively. Here are some key insights based on the dashboard visualization:
@@ -355,7 +355,7 @@ If intentional (e.g., weight loss goal), this is positive, but prolonged deficit
 
 ---
 
-# SHARE
+## SHARE
 #### Communicating Insights from the Dashboard Development
 
 I designed a Tableau Health Tracker Performance Dashboard to provide a comprehensive overview of key health metrics. This dashboard integrates:
@@ -380,7 +380,7 @@ The Health Tracker Performance Dashboard provides an intuitive way to monitor da
 
 ---
 
-# ACT
+## ACT
 
 #### Key Recommendations
 
